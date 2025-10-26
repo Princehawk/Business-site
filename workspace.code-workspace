@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../practice website"
+	},
+	{
+		"path": "../portfolio website"
+	},
+	{
+		"path": "../e commerce website"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../website"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "business website"
+  }
+}
